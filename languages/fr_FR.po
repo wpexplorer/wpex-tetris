@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tetris\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-19 13:31-0800\n"
+"PO-Revision-Date: 2016-04-19 14:34-0800\n"
+"Last-Translator: J.-J. Schaeffer <jjschaeffer@aliceadsl.fr>\n"
+"Language-Team: J.-J. Schaeffer <jjschaeffer@aliceadsl.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+"Désolé, mais la page que vous cherchez n'a pas pu être trouvée. Veuillez "
+"visiter "
+
+#: ../404.php:17
+msgid "homepage"
+msgstr "page d'accueil"
+
+#: ../comments.php:24
+msgid "Leave a comment"
+msgstr "Commenter"
+
+#: ../comments.php:24 ../content-audio.php:45 ../content-gallery.php:48
+#: ../content-image.php:35 ../content-link.php:40 ../content-video.php:37
+#: ../content.php:36 ../single.php:36
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: ../comments.php:24 ../content-audio.php:45 ../content-gallery.php:48
+#: ../content-image.php:35 ../content-link.php:40 ../content-video.php:37
+#: ../content.php:36 ../single.php:36
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: ../comments.php:24
+msgid "Comments closed"
+msgstr "Les commentaires sont clos."
+
+#: ../comments.php:27 ../comments.php:37
+msgid "Comment Navigation"
+msgstr "Menu des commentaires"
+
+#: ../comments.php:28 ../comments.php:38
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: ../comments.php:29 ../comments.php:39
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: ../comments.php:47
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "Répondre"
+
+#: ../content-audio.php:45 ../content-gallery.php:48 ../content-image.php:35
+#: ../content-link.php:40 ../content-video.php:37 ../content.php:36
+#: ../single.php:36
+msgid "0 Comments"
+msgstr "0 commentaire"
+
+#: ../content-image.php:17
+msgid "View Full-Size"
+msgstr "Voir en plein écran"
+
+#: ../content-link.php:18
+msgid "View Link"
+msgstr ""
+
+#: ../functions.php:69
+msgid "Main"
+msgstr "Principal"
+
+#: ../functions.php:148
+msgid "continue reading"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Read more"
+msgstr ""
+
+#: ../search.php:15
+msgid "Search Results For"
+msgstr "Recherche sur"
+
+#: ../search.php:24
+msgid "Sorry, no results where found"
+msgstr "Désolé, mais pas de résultat à votre demande"
+
+#: ../searchform.php:12
+msgid "Type and hit enter to search"
+msgstr "Tapez et confirmer pour lancer la recherche"
+
+#: ../inc/comments.php:21
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr "<cite class=\"auteur\">%s</cite>"
+
+#: ../inc/comments.php:23
+msgid "Reply"
+msgstr "Répondre"
+
+#: ../inc/scripts.php:51
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/theme-customizer.php:16
+#, fuzzy
+msgid "Theme Settings"
+msgstr "Configuration de l'article"
+
+#: ../inc/theme-customizer.php:27
+msgid "Image Logo"
+msgstr ""
+
+#: ../inc/theme-customizer.php:41
+#, fuzzy
+msgid "Social Links"
+msgstr "Profils des liens sociaux"
+
+#: ../inc/theme-customizer.php:56
+#, fuzzy
+msgid "Custom Copyright"
+msgstr "Copyright"
+
+#: ../inc/theme-customizer.php:65
+#, fuzzy
+msgid "Social Options"
+msgstr "Profils des liens sociaux"
+
+#: ../inc/welcome.php:39 ../inc/welcome.php:40
+msgid "Tetris Theme"
+msgstr ""
+
+#: ../inc/widget-areas.php:14
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../inc/widget-areas.php:16
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr "Les widgets de cette zone se retrouvent dans la sidebar."
+
+#: ../inc/widget-areas.php:23
+msgid "Footer 1"
+msgstr "Pied de page 1"
+
+#: ../inc/widget-areas.php:25
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+"Les widgets de cette zone se retrouvent dans la 1ière colonne du pied de page"
+
+#: ../inc/widget-areas.php:32
+msgid "Footer 2"
+msgstr "Pied de page 2"
+
+#: ../inc/widget-areas.php:34
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+"Les widgets de cette zone se retrouvent dans la 2ème colonne du pied de page"
+
+#: ../inc/widget-areas.php:41
+msgid "Footer 3"
+msgstr "Pied de page 3"
+
+#: ../inc/widget-areas.php:43
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+"Les widgets de cette zone se retrouvent dans la 3ième colonne du pied de page"
+
+#: ../inc/widget-social.php:9
+msgid "Social Profiles"
+msgstr "Profils des liens sociaux"
+
+#: ../inc/widget-social.php:40
+msgid "Follow Us"
+msgstr "Suivez nous"
+
+#: ../inc/widget-social.php:44
+msgid "Title:"
+msgstr "Titre :"
+
+#: ../inc/meta/init.php:207
+msgid "Clear"
+msgstr ""
+
+#: ../inc/meta/init.php:208
+msgid "Default"
+msgstr ""
+
+#: ../inc/meta/init.php:209
+#, fuzzy
+msgid "Select Color"
+msgstr "Choisir"
+
+#: ../inc/meta/init.php:210
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/meta/init.php:936
+msgid "Save"
+msgstr ""
+
+#: ../inc/meta/usage.php:24
+msgid "Post Settings"
+msgstr "Configuration de l'article"
+
+#: ../inc/meta/usage.php:31
+msgid "Link Format URL"
+msgstr "Lien URL"
+
+#: ../inc/meta/usage.php:33
+msgid "Enter the url for your link format URL."
+msgstr "Tapez l'URL pour votre lien URL."
+
+#: ../inc/meta/usage.php:38
+msgid "Audio MP3"
+msgstr "Audio MP3"
+
+#: ../inc/meta/usage.php:40
+msgid "Enter the url for your mp3 audio file for your audio post format."
+msgstr "Tapez l'URL du mp3 pour vos articles audio."
+
+#: ../inc/meta/usage.php:45
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/meta/usage.php:47
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr "Tapez une URL de vidéocompatible avec la norme WordPress oEmbed."
+
+#: ../inc/meta/usage.php:47
+msgid "Learn More"
+msgstr "... plus"
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:12
+msgid "Image Gallery"
+msgstr ""
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:98
+#: ../inc/meta/gallery-metabox/gmb-admin.php:161
+msgid "Remove image"
+msgstr ""
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:109
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:119
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:142
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../inc/meta/gallery-metabox/gmb-admin.php:144
+msgid "Add to gallery"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:167
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:459
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:437
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:448
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:459
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:459
+#: ../inc/meta/helpers/tetris_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""
+
+#~ msgid "Posts by"
+#~ msgstr "Articles de"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Email"
+#~ msgstr "Courriel"
+
+#~ msgid "Website"
+#~ msgstr "Site internet"
+
+#~ msgid "Log In To Comment"
+#~ msgstr "Se connecter pour commenter"
+
+#~ msgid "Cancel reply"
+#~ msgstr "Supprimer la réponse"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Commenter"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installer les extensions demandées"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Installer les extensions"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installation de l'extension : %s"
+
+#~ msgid "Something went wrong."
+#~ msgstr "Quelque chose a cloché."
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Retourner à l'installation de l'extension demandée"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "L'extension a bien été activée."
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Toutes les extensions ont bien été installées et activées. %1$s"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Retour au tableau de bord"
+
+#~ msgid "The following plugin was activated successfully: %s."
+#~ msgstr "Activation effectuée pour l'extension : %s."
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Oublier ce conseil"
+
+#~ msgid "External Link"
+#~ msgstr "Lien externe"
+
+#~ msgid "Private Repository"
+#~ msgstr "Dépôt privé"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pré-assemblé"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "Dépôt WordPress"
+
+#~ msgid "Required"
+#~ msgstr "Requis"
+
+#~ msgid "Recommended"
+#~ msgstr "Recommandé"
+
+#~ msgid "Not Installed"
+#~ msgstr "Non installé"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installé mais non activé"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Pas d'extension à installer ou à activer. <a href=\"%1$s\" title=\"Retour "
+#~ "au Tableau de bord\">Return to the Dashboard</a>"
+
+#~ msgid "Plugin"
+#~ msgstr "Extension"
+
+#~ msgid "Source"
+#~ msgstr "Source"
+
+#~ msgid "Type"
+#~ msgstr "Tapez"
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+#~ msgid "Activate"
+#~ msgstr "Activer"
+
+#~ msgid "Install package not available."
+#~ msgstr "Installation du package non disponible."
+
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Chargement du package d'installation de <span class=\"code\">%s</"
+#~ "span>&#8230;"
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Décompression du package&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Installation de l'extension&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "L'installation de l'extension a échoué."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "L'extension a bien été installée."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "L'activation de l'extension a échoué."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Démarrage de l'installation et de l'activation. Selon l'hébergeur, cela "
+#~ "peut prendre plus ou moins de temps. Veuillez patienter."
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s  bien installé et activé."
+
+#~ msgid "Show Details"
+#~ msgstr "Afficher les détails"
+
+#~ msgid "Hide Details"
+#~ msgstr "Masquer les détails"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Toutes les installations et activations ont été effectuées."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Démarrage de l'installation. Selon l'hébergeur, cela peut prendre un "
+#~ "certain temps. Veuillez patienter."
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Une erreur est apparue durant l'installation de %1$s: <strong>%2$s</"
+#~ "strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "L'installation de %1$s a échoué."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s bien installé."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Toutes les installations ont été effectuées."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Quelque chose a cloché avec l'API de l'extension."
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Toutes les extensions ont bien été installées et activées. %s"
+
+#, fuzzy
+#~ msgid "Theme Details"
+#~ msgstr "Masquer les détails"
+
+#, fuzzy
+#~ msgid "Recommendations"
+#~ msgstr "Recommandé"
+
+#~ msgid "About"
+#~ msgstr "Environ"
+
+#, fuzzy
+#~ msgid "Credits"
+#~ msgstr "Crédit pour le thème"
+
+#, fuzzy
+#~ msgid "Theme Page"
+#~ msgstr "Crédit pour le thème"
+
+#, fuzzy
+#~ msgid "Documentation"
+#~ msgstr "Menu des commentaires"
+
+#, fuzzy
+#~ msgid "Plugins"
+#~ msgstr "Extension"
+
+#, fuzzy
+#~ msgid "WordPress Hosting"
+#~ msgstr "Dépôt WordPress"
+
+#~ msgid "General"
+#~ msgstr "général"
+
+#~ msgid "Custom Logo"
+#~ msgstr "Logo personnalisé"
+
+#~ msgid "Upload your custom logo."
+#~ msgstr "Chargez votre logo personnalisé."
+
+#~ msgid "Custom Favicon"
+#~ msgstr "Icone type personnalisée"
+
+#~ msgid "Upload your custom site favicon."
+#~ msgstr "Chargez votre icône type du site."
+
+#~ msgid "Responsive?"
+#~ msgstr "Responsive ?"
+
+#~ msgid "Check box to enable the responsive layout."
+#~ msgstr "Cochez la case pour passer en mode responsive."
+
+#~ msgid "Homepage Soliloquy Slider"
+#~ msgstr "Diaporama Soliloquy de la page d'accueil"
+
+#~ msgid "Select your homepage Soliloquy Slider."
+#~ msgstr "Choisir votre diaporama Soliloquy de la page d'accueil."
+
+#~ msgid "Homepage Subtitle"
+#~ msgstr "Sous-titre de la page d'accueil"
+
+#~ msgid "Welcome To Blog of AJ Clarke"
+#~ msgstr "Bienvenue au blog d' A.J. Clarke"
+
+#~ msgid "Social"
+#~ msgstr "Lien social"
+
+#~ msgid "Social?"
+#~ msgstr "Liens sociaux ?"
+
+#~ msgid "Check box to enable the social section in the main menu."
+#~ msgstr ""
+#~ "Cochez la case pour afficher les liens sociaux avec le menu principal."
+
+#~ msgid "Enter your "
+#~ msgstr "Tapez votre "
+
+#~ msgid " url"
+#~ msgstr " url"
+
+#~ msgid "Include http:// at the front of the url."
+#~ msgstr "Ajouter http:// en tête d'URL."
+
+#~ msgid "Support? Donations?"
+#~ msgstr "Une aide ? Un don ?"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "Advertisement"
+#~ msgstr "Avertissement"
+
+#~ msgid "Audio OGG"
+#~ msgstr "Audio OGG"
+
+#~ msgid ""
+#~ "Enter the url for your ogg audio file for your audio post format. "
+#~ "Required for Firefox."
+#~ msgstr ""
+#~ "Tapez l'URL de votre fichier ogg, pour vos articles audio. Nécessaire "
+#~ "pour Firefox."
+
+#~ msgid "Video Format Embed"
+#~ msgstr "Format vidéo"
