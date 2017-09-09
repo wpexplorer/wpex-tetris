@@ -10,7 +10,9 @@
  */
 
 // Exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) return;
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 	
 //start loop
 while ( have_posts() ) : the_post(); ?>

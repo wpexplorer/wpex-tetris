@@ -3,11 +3,16 @@
  * Dashboard feeds
  */
 
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 // Register all dashboard metaboxes
 function rc_mdm_register_widgets() {
 	global $wp_meta_boxes;
-	wp_add_dashboard_widget( 'widget_wpexplorer_feed', esc_html__( 'WPExplorer Blog', 'tetris' ), 'wpex_dashboard_rss_box' );
-	wp_add_dashboard_widget( 'widget_wdexplorer_feed', esc_html__( 'Web Design Blog', 'tetris' ), 'wde_dashboard_rss_box' );
+	wp_add_dashboard_widget( 'widget_wpexplorer_feed', esc_html__( 'WP News', 'tetris' ), 'wpex_dashboard_rss_box' );
+	wp_add_dashboard_widget( 'widget_wdexplorer_feed', esc_html__( 'Web Design News', 'tetris' ), 'wde_dashboard_rss_box' );
 }
 add_action('wp_dashboard_setup', 'rc_mdm_register_widgets');
 

@@ -9,6 +9,11 @@
  * @since     1.0.0
  */
 
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 get_header(); ?>
 
 <header id="page-heading">

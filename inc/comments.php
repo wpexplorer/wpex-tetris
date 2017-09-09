@@ -8,7 +8,12 @@
  * @link      http://www.wpexplorer.com
  * @since     1.0.0
  */
- 
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+    return;
+}
+
 function wpex_comments_output($comment, $args, $depth) {
 	$GLOBALS['comment'] = $comment; ?>
 	<li <?php comment_class(); ?> id="li-comment-<?php comment_ID() ?>">

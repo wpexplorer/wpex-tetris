@@ -21,7 +21,9 @@
  */
 
 // Exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) return;
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 
 /**
  * Include files
@@ -30,19 +32,19 @@ if ( ! defined( 'ABSPATH' ) ) return;
  */
 $dir = get_template_directory();
 
-require_once( $dir .'/inc/social-links.php' );
-require_once( $dir .'/inc/theme-customizer.php' );
-require_once( $dir .'/inc/classes/gallery-metabox/gallery-metabox.php' );
-require_once( $dir .'/inc/scripts.php' );
-require_once( $dir .'/inc/widget-areas.php' );
-require_once( $dir .'/inc/widget-social.php' );
+require_once $dir .'/inc/social-links.php' ;
+require_once $dir .'/inc/theme-customizer.php' ;
+require_once $dir .'/inc/classes/gallery-metabox/gallery-metabox.php' ;
+require_once $dir .'/inc/scripts.php' ;
+require_once $dir .'/inc/widget-areas.php' ;
+require_once $dir .'/inc/widget-social.php' ;
 if ( is_admin() ) {
-	require_once( $dir .'/inc/updates.php' );
-	require_once( $dir .'/inc/cmb2-init.php' );
-	require_once( $dir .'/inc/welcome.php' );
-	require_once( $dir .'/inc/dashboard-feed.php' );
+	require_once $dir .'/inc/updates.php' ;
+	require_once $dir .'/inc/cmb2-init.php' ;
+	require_once $dir .'/inc/welcome.php' ;
+	require_once $dir .'/inc/dashboard-feed.php' ;
 } else {
-	require_once( $dir .'/inc/comments.php' );
+	require_once $dir .'/inc/comments.php' ;
 }
 
 /**

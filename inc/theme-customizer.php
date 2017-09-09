@@ -9,6 +9,11 @@
  * @since     1.0.0
  */
 
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 function wpex_customizer_general($wp_customize) {
 
 	// Theme Settings Section
@@ -74,8 +79,9 @@ function wpex_customizer_general($wp_customize) {
 		$name = $social_option = str_replace('_', ' ', $social_option);
 		$name = ucfirst( $name );
 		$wp_customize->add_setting( 'wpex_social_'. $social_option, array(
-			'type'		=> 'theme_mod',
-			'default'	=> '',
+			'type'		        => 'theme_mod',
+			'default'	        => '',
+			'sanitize_callback' => 'esc_url'
 		) );
 		$wp_customize->add_control( 'wpex_social_'. $social_option, array(
 			'label'		=> $name,

@@ -10,7 +10,9 @@
  */
 
 // Exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) exit; ?>
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+} ?>
 
 <article <?php post_class('blog-entry clearfix'); ?>>  
 	<div class="entry-text clearfix">

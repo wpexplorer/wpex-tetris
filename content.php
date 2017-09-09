@@ -10,8 +10,9 @@
  */
 
 // Exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) return;
-
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 
 if ( is_singular() ) { ?>
 

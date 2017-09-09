@@ -1,0 +1,689 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tetris WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-08 18:08-0700\n"
+"PO-Revision-Date: 2016-04-19 14:34-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid ""
+"Unfortunately, the page you tried accessing could not be retrieved. Please "
+"visit the"
+msgstr ""
+
+#: ../404.php:20
+msgid "homepage"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:27 ../content-audio.php:52 ../content-gallery.php:65
+#: ../content-image.php:37 ../content-link.php:42 ../content-video.php:39
+#: ../content.php:37 ../single.php:36
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:27 ../content-audio.php:52 ../content-gallery.php:65
+#: ../content-image.php:37 ../content-link.php:42 ../content-video.php:39
+#: ../content.php:37 ../single.php:36
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Comments closed"
+msgstr ""
+
+#: ../comments.php:30 ../comments.php:40
+msgid "Comment Navigation"
+msgstr ""
+
+#: ../comments.php:31 ../comments.php:41
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:32 ../comments.php:42
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../content-audio.php:52 ../content-gallery.php:65 ../content-image.php:37
+#: ../content-link.php:42 ../content-video.php:39 ../content.php:37
+#: ../single.php:36
+msgid "0 Comments"
+msgstr ""
+
+#: ../content-image.php:19
+msgid "View Full-Size"
+msgstr ""
+
+#: ../content-link.php:20
+msgid "View Link"
+msgstr ""
+
+#: ../functions.php:73
+msgid "Main"
+msgstr ""
+
+#: ../functions.php:152
+msgid "continue reading"
+msgstr ""
+
+#: ../functions.php:152
+msgid "Read more"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:80
+msgid "Test Metabox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:91 ../inc/CMB2/example-functions.php:383
+msgid "Test Text"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:92 ../inc/CMB2/example-functions.php:104
+#: ../inc/CMB2/example-functions.php:112
+#: ../inc/CMB2/example-functions.php:120
+#: ../inc/CMB2/example-functions.php:129
+#: ../inc/CMB2/example-functions.php:137
+#: ../inc/CMB2/example-functions.php:152
+#: ../inc/CMB2/example-functions.php:160
+#: ../inc/CMB2/example-functions.php:168
+#: ../inc/CMB2/example-functions.php:185
+#: ../inc/CMB2/example-functions.php:194
+#: ../inc/CMB2/example-functions.php:207
+#: ../inc/CMB2/example-functions.php:214
+#: ../inc/CMB2/example-functions.php:221
+#: ../inc/CMB2/example-functions.php:235
+#: ../inc/CMB2/example-functions.php:248
+#: ../inc/CMB2/example-functions.php:261
+#: ../inc/CMB2/example-functions.php:273
+#: ../inc/CMB2/example-functions.php:282
+#: ../inc/CMB2/example-functions.php:290
+#: ../inc/CMB2/example-functions.php:299
+#: ../inc/CMB2/example-functions.php:306
+#: ../inc/CMB2/example-functions.php:320
+#: ../inc/CMB2/example-functions.php:384
+#: ../inc/CMB2/example-functions.php:475
+#: ../inc/CMB2/example-functions.php:483
+#: ../inc/CMB2/example-functions.php:490
+#: ../inc/CMB2/example-functions.php:497
+#: ../inc/CMB2/example-functions.php:504
+#: ../inc/CMB2/example-functions.php:511
+#: ../inc/CMB2/example-functions.php:518
+#: ../inc/CMB2/example-functions.php:545
+#: ../inc/CMB2/example-functions.php:553
+#: ../inc/CMB2/example-functions.php:560
+#: ../inc/CMB2/example-functions.php:597
+msgid "field description (optional)"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:103
+msgid "Test Text Small"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:111
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:119
+msgid "Website URL"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:128
+msgid "Test Text Email"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:136
+msgid "Test Time"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:144
+#: ../inc/CMB2/example-functions.php:145
+msgid "Time zone"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:151
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:206
+msgid "Test Text Area"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:213
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:220
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:227
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:228
+msgid "This is a title description"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:234
+msgid "Test Select"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:240
+#: ../inc/CMB2/example-functions.php:253
+#: ../inc/CMB2/example-functions.php:265
+msgid "Option One"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:241
+#: ../inc/CMB2/example-functions.php:254
+#: ../inc/CMB2/example-functions.php:266
+msgid "Option Two"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:242
+#: ../inc/CMB2/example-functions.php:255
+#: ../inc/CMB2/example-functions.php:267
+msgid "Option Three"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:247
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:260
+msgid "Test Radio"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:272
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:281
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:289
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:298
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:305
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:311
+msgid "Check One"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:312
+msgid "Check Two"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:313
+msgid "Check Three"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:319
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:327
+msgid "Test Image"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:328
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:334
+msgid "Multiple Files"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:335
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:342
+msgid "oEmbed"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:343
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:374
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:403
+msgid "Repeating Field Group"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:411
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:413
+msgid "Entry {#}"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:414
+msgid "Add Another Entry"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:415
+msgid "Remove Entry"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:428
+msgid "Entry Title"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:435
+msgid "Description"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:436
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:442
+msgid "Entry Image"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:448
+msgid "Image Caption"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:474
+#: ../inc/CMB2/example-functions.php:544
+msgid "Extra Info"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:537
+msgid "Category Metabox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:552
+msgid "Term Image"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:559
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:581
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../inc/CMB2/example-functions.php:596
+msgid "Site Background Color"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Field.php:1030
+msgid "Add Group"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Field.php:1031
+msgid "Remove Group"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Field.php:1053
+#: ../inc/CMB2/includes/CMB2_Field.php:1057
+msgid "None"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:86 ../inc/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:118 ../inc/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:137
+#: ../inc/CMB2/includes/CMB2_Types.php:1021
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:138
+#: ../inc/CMB2/includes/CMB2_Types.php:357
+#: ../inc/CMB2/includes/CMB2_Types.php:1040
+msgid "Remove"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:139
+#: ../inc/CMB2/includes/CMB2_Types.php:1035
+msgid "File:"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:140
+#: ../inc/CMB2/includes/CMB2_Types.php:1038
+msgid "Download"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Types.php:768
+#: ../inc/CMB2/includes/CMB2_Types.php:816
+msgid "No terms"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Types.php:884
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_Types.php:945
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: ../inc/CMB2/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: ../inc/CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: ../inc/cmb2-init.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: ../inc/cmb2-init.php:23
+msgid "Link Format URL"
+msgstr ""
+
+#: ../inc/cmb2-init.php:25
+msgid "Enter the url for your link format URL."
+msgstr ""
+
+#: ../inc/cmb2-init.php:31
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/cmb2-init.php:33
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../inc/cmb2-init.php:33
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/cmb2-init.php:39
+msgid "Self Hosted Audio"
+msgstr ""
+
+#: ../inc/comments.php:26
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: ../inc/comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: ../inc/scripts.php:56
+msgid "Menu"
+msgstr ""
+
+#: ../inc/theme-customizer.php:21
+msgid "Theme Settings"
+msgstr ""
+
+#: ../inc/theme-customizer.php:32
+msgid "Image Logo"
+msgstr ""
+
+#: ../inc/theme-customizer.php:46
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/theme-customizer.php:61
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../inc/theme-customizer.php:70
+msgid "Social Options"
+msgstr ""
+
+#: ../inc/welcome.php:39 ../inc/welcome.php:40
+msgid "Tetris Theme"
+msgstr ""
+
+#: ../inc/widget-areas.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/widget-areas.php:22
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr ""
+
+#: ../inc/widget-areas.php:29
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/widget-areas.php:31
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: ../inc/widget-areas.php:38
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/widget-areas.php:40
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: ../inc/widget-areas.php:47
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/widget-areas.php:49
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: ../inc/widget-social.php:9
+msgid "Social Profiles"
+msgstr ""
+
+#: ../inc/widget-social.php:40
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/widget-social.php:44
+msgid "Title:"
+msgstr ""
+
+#: ../search.php:20
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:29
+msgid "Sorry, no results where found"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Type and hit enter to search"
+msgstr ""

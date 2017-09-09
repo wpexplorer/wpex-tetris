@@ -10,7 +10,9 @@
  */
 
 // Exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) return;
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 
 $video = get_post_meta( get_the_ID(), 'wpex_post_video', true );
 

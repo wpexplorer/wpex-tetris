@@ -1,4 +1,9 @@
 <?php
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 // Include meta class
 require_once( get_template_directory() .'/inc/CMB2/init.php' );
 

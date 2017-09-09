@@ -7,7 +7,12 @@
  * @copyright Copyright (c) 2015, WPExplorer.com
  * @link      http://www.wpexplorer.com
  * @since     1.0.0
- */ ?>
+ */
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+} ?>
 
 	<div class="clear"></div>
 
@@ -32,9 +37,9 @@
 	<div id="copyright">
 		<?php
 		if ( $copy = get_theme_mod( 'wpex_copyright' ) ) {
-			echo $copy;
+			echo wp_kses_post( $copy );
 		} else {
-			echo 'Powered by <a href="https://www.wordpress.org" title="WordPress" target="_blank">WordPress</a> and <a href="http://www.wpexplorer.com/tetris-wordpress-theme/" target="_blank" title="Tetris WordPress Theme" rel="nofollow">Tetris WordPress Theme</a> by <a href="http://themeforest.net/user/wpexplorer?ref=WPExplorer" title="WPExplorer">WPExplorer</a>';
+			printf( esc_html__( 'Theme by %1$s Powered by %2$s', 'tetris' ), '<a href="http://www.wpexplorer.com/" target="_blank" title="WPExplorer">WPExplorer</a>', '<a href="http://wordpress.org/" target="_blank" title="WordPress.org">WordPress</a>' );
 		} ?>
 	</div>
 

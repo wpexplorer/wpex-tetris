@@ -8,6 +8,9 @@
  * @link      http://www.wpexplorer.com
  * @since     1.0.0
  */
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 
 get_header(); ?>
 

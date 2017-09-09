@@ -13,6 +13,11 @@
  * @since     1.0.0
  */
 
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 get_header();
 
 if ( have_posts()) : while (have_posts() ) : the_post(); ?>

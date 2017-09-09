@@ -1,6 +1,6 @@
 <?php
 /**
- * Arrray of social links
+ * Array of social links
  *
  * @package   Tetris WordPress Theme
  * @author    Alexander Clarke
@@ -8,6 +8,11 @@
  * @link      http://www.wpexplorer.com
  * @since     1.0.0
  */
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
 
 if ( ! function_exists( 'wpex_social_links' ) ) {
 	function wpex_social_links() {
