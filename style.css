@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------
 Theme Name: Tetris
-Version: 1.3
+Version: 1.3.1
 Description: Premium WordPress theme by WPExplorer
 Author: WPExplorer
 Author URI: http://www.wpexplorer.com/
@@ -307,10 +307,9 @@ html[xmlns] .slides { display: block }
 #wp-calendar tbody td { padding: 4px 0; text-align: center; border: 1px solid #eee; }
 #wp-calendar tbody td:hover { background: #fff; color: #000; }
 #wp-calendar tfoot td { padding-top: 5px }
-
 /* Footer
 ----------------------------------------------------------- */
-#footer { background: #111 url("images/vintage.png"); padding: 40px; font-size: 0.929em; position: relative; }
+#footer { background: #111 url("images/vintage.png"); padding: 40px 40px 0; font-size: 0.929em; position: relative; }
 #footer a { color: #aaa }
 #footer a:hover { color: #e73420; text-decoration: none; }
 .footer-box { float: left; width: 260px; margin-right: 50px; }
